@@ -6,9 +6,23 @@ a crowed-sourced Software Engineering and Development topics Knowledge Graph,
 and replication package for **KGRec** and **KGRec+**, 
 two topic recommenders based on this knowledge graph.
 
-Access this repository by following this link: <a href="https://github.com/mahtab-nejati/KGRec">https://github.com/mahtab-nejati/KGRec</a>
+Access this repository by following this link: <a href="https://github.com/mahtab-nejati/KGRec" target="_blank">https://github.com/mahtab-nejati/KGRec</a>
 
 The projects' information dataset are adopted from the following study</a>.
 
-Izadi, M., Heydarnoori, A. & Gousios, G. <a href="https://link.springer.com/article/10.1007/s10664-021-09976-2"> **Topic recommendation for software repositories using multi-label classification algorithms** </a>. 
-_Empirical Software Engineering_ 26, 93 (2021). https://doi.org/10.1007/s10664-021-09976-2
+## Citation
+This work is accepted for publication in [EMSE Journal](https://doi.org/10.1007/s10664-022-10272-w), under the title of "Semantically-enhanced Topic Recommendation Systems for Software Projects".
+
+```python
+@article{izadi2023semantically,
+  title={Semantically-enhanced topic recommendation systems for software projects},
+  author={Izadi, Maliheh and Nejati, Mahtab and Heydarnoori, Abbas},
+  journal={Empirical Software Engineering},
+  volume={28},
+  number={2},
+  pages={50},
+  year={2023},
+  publisher={Springer}
+}
+```
+
