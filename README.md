@@ -9,7 +9,7 @@ two topic recommenders based on this knowledge graph.
 Access the dataset and source code by following this link: <a href="https://github.com/mahtab-nejati/KGRec" target="_blank">https://github.com/mahtab-nejati/KGRec</a>
 
 ## Citation
-This work is accepted for publication in Empirical Software Engineering Journal, under the title of ["Semantically-enhanced Topic Recommendation Systems for Software Projects"](https://doi.org/10.1007/s10664-022-10272-w).
+This work is accepted for publication in **Empirical Software Engineering Journal**, under the title of ["Semantically-enhanced Topic Recommendation Systems for Software Projects"](https://doi.org/10.1007/s10664-022-10272-w).
 
 ```python
 @article{izadi2023semantically,
